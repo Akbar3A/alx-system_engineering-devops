@@ -1,1 +1,2 @@
 !#/bin/bash
+sort 13-names | uniq
